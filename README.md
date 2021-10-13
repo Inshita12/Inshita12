@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Inshita12
-- 👀 I’m interested in ..Web Development
-- 🌱 I’m currently learning ...Full Stack Web Development(Node.js)
+
 -
 - 📫 How to reach me ...inshitabamba@gmail.com
 
